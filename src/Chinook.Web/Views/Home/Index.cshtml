@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>@ViewBag.Message</h2>
+<p>
+  @Html.ActionLink("Albums", "Index", "Albums", null, new { @class = "albums-link" })
+</p>
+
+<script type="text/javascript" charset="utf-8">
+
+    $(document).ready(function () {
+
+        $(".albums-link").button();
+
+    });
+
+ 
+</script>
