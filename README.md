@@ -1,4 +1,4 @@
-Remeber to download and install first the Cronos database for SQL Server 2008: http://Cronosdatabase.codeplex.com/
+Remeber to download and install first the Chinook database for SQL Server 2008: http://chinookdatabase.codeplex.com/
 
 More information: 
 * [Part1 - CQRS Query](http://mravinale.wordpress.com/2012/06/20/asp-net-mvc-simple-cqrs-part-1-query/)
