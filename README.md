@@ -1,7 +1,7 @@
 
 ##Introduction
 
-This project provides a simple way to separate **Queries** from **Commands** and update in real time updates using **SignalR**
+This project provides a simple way to separate **Queries** from **Commands** and update the View in real time using **SignalR**
 
 ## Way?
 CQRS provides a very valuable insight: "how you read and query data is probably very different from how you manage, update, and manipulate data. You don’t have to have a picture-perfect implementation of CQRS to take advantage of this concept".
