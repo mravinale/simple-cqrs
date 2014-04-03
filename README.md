@@ -15,3 +15,6 @@ CQRS provides a very valuable insight: "how you read and query data is probably 
 ## Requirements
 Remeber to download and install first the [Chinook database for SQL Server 2008]
 ( http://chinookdatabase.codeplex.com/)
+
+## License
+This project is licensed under the [MIT license](http://opensource.org/licenses/MIT)
